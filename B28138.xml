@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain and easie way to reduce guineas, which now is the only passable coin for payments, in such method that neither the king nor any of his subjects will lay under the least disadvantage; but by so doing, will produce a speedy supply to his Majesty and all his revenues, and thereby all the nobility and gentry of England will have their revenues will [sic] paid; which will encourage trade, and quicken payment to merchants and tradesmen, and by the means following will bring back guineas out of foreign countries, and make them plentiful here: and likewise a method for setling of the silver coin in this nation, during the time of reducing guineas. Humbly presented to the consideration of both Houses in Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28138</idno><idno type="EEBO-CITATION">99885030</idno>
+  <idno type="VID">185351</idno>
+  <idno type="EEBO-PROQUEST">2240882341</idno>
+  
+            <idno type="STC">Wing P2342</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[28]</idno>
+            <idno type="STC">ESTC R220443</idno>
+            <idno type="PROQUEST">ocm99885030</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885030e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185351)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain and easie way to reduce guineas, which now is the only passable coin for payments, in such method that neither the king nor any of his subjects will lay under the least disadvantage; but by so doing, will produce a speedy supply to his Majesty and all his revenues, and thereby all the nobility and gentry of England will have their revenues will [sic] paid; which will encourage trade, and quicken payment to merchants and tradesmen, and by the means following will bring back guineas out of foreign countries, and make them plentiful here: and likewise a method for setling of the silver coin in this nation, during the time of reducing guineas. Humbly presented to the consideration of both Houses in Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: first line of docket title missing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign exchange --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185351:1"/>
+            <head>A plain and easie Way to reduce GƲINEAS, which now is the only passable Coin for Payments, in such method that neither the KING nor any of his Subjects will lay under the least Disadvantage; but by so doing, will produce a speedy Supply to his Majesty and all his Revenues, and thereby all the Nobility and Gen<g ref="char:EOLhyphen"/>try of <hi>England</hi> will have their Revenues will paid; which will encourage Trade, and quicken Payment to Merchants and Tradesman, and by the means following will bring back Guineas out of Foreign Countries, and make them plentiful here: And likewise a Method for setling of the Silver Coin in this Nation, during the time of reducing Guineas.</head>
+            <opener>Humbly presented to the Consideration of both Houses in Parliament.</opener>
+            <p>THE Method will then be, To reduce every Guinea from Thirty Shillings to Twenty five Shillings, and to pass Currant in the the King's Exchequer, Custom-House, Excise, and all Banks and Places whatsoever, in this his Majesty's Kingdom, at Thirty Shillings <hi>per</hi> Guinea until the 25th of <hi>March,</hi> 1696. And from thence to lessen the Value of every Guinea Six Pence, every Quarter of a Year; which in Two Years and an half's Time will reduce every Guinea to the Value of Twenty five Shillings: which, if settled by Act of Parliament, will be of great Satisfaction to all People, with a severe Penalty upon any that shall Raise or Refuse them.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">s</cell>
+                     <cell role="label">d</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>And so from the 25th of <hi>March</hi> 1696. to the</cell>
+                     <cell>24th of <hi>June</hi> following at</cell>
+                     <cell>29</cell>
+                     <cell>6</cell>
+                     <cell rows="10">
+                        <hi>per</hi> Piece.</cell>
+                  </row>
+                  <row>
+                     <cell rows="9">From thence to the</cell>
+                     <cell>29th of <hi>September,</hi> 1696. at</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>25th of <hi>December,</hi> at</cell>
+                     <cell>28</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>25th of <hi>March,</hi> 1697. at</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>24th of <hi>June,</hi> at</cell>
+                     <cell>27</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>29th of <hi>September,</hi> at</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>25th of <hi>December,</hi> at</cell>
+                     <cell>26</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>25th of <hi>March,</hi> 1698. at</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>24th of <hi>June,</hi> at</cell>
+                     <cell>25</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>29th of <hi>September,</hi> at</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Method for settling the Silver-Coin of this Nation, and for the Increase and Plenty thereof to be preserved, will be by reducing its Value; which may be ac<g ref="char:EOLhyphen"/>complish'd in Two Years. And the first Year, without any Charge, all the Mill'd Mony and Large Old Mony, of full Standard, being new-coin'd, with the Allowance of Ten Pound <hi>per Cent.</hi> to such as bring in their Mony, will do; as for Example;
+<table>
+                  <row>
+                     <cell role="label">Standard for Old Mony.</cell>
+                     <cell role="label">Standard for the New.</cell>
+                     <cell role="label">The allowance of 10 <hi>l. per cent.</hi>
+                     </cell>
+                     <cell role="label">The Over-plus.</cell>
+                     <cell rows="3">
+                        <note place="margin">1 Ounce is 20 Peny-weight, and 1 Peny-weight is 24 Grains.</note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5 <hi>s.</hi> is 19 <hi>d. w.</hi> 12 <hi>gr.</hi>
+                     </cell>
+                     <cell>to be 16 <hi>d. w.</hi> 0 <hi>gr.</hi>
+                     </cell>
+                     <cell>is 2 <hi>d. w.</hi> 0 <hi>gr.</hi>
+                     </cell>
+                     <cell>1 <hi>d. w.</hi> 12 <hi>gr.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2 <hi>s.</hi> 6 <hi>d.</hi> is 9 <hi>d. w.</hi> 18 <hi>gr.</hi>
+                     </cell>
+                     <cell>to be 8 <hi>d. w.</hi> 0 <hi>gr.</hi>
+                     </cell>
+                     <cell>is 1 <hi>d. w.</hi> 0 <hi>gr.</hi>
+                     </cell>
+                     <cell>0 <hi>d. w.</hi> 18 <hi>gr.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And in proportion for smaller Coin.</p>
+            <p>
+               <hi>Note,</hi> All the Old Coin being thus <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>educed, there remains 36 Grains, being one Penny-weight and an half, which is full Seven Pounds ten Shillings <hi>per Cent.</hi> which may lye in Bank towards the making good Clipt Mony, when coin'd.</p>
+            <p>
+               <hi>Note also,</hi> That there is abundance of Old Clip'd Mony, and likewise Old Mony, that is not Clip'd, which, weigh'd together, will hold the New Standard without Loss.</p>
+            <p>So that when all this Coin, which is now hoarded up, being thus reduc'd, it will appear that all the Small Clip'd Mony, which no Person have or will lay up, will be found to be but of small Quantity, in comparison of the whole Coin in the N<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, and a small Tax will make it good; unless being thus reduced, we may be in danger of losing the greatest part of the Silver Coin during the War.</p>
+         </div>
+         <div type="docket_title">
+            <pb facs="tcp:185351:2"/>
+            <p>Reduce Guineas, And settling the SILVER COIN.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
